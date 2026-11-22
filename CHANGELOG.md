@@ -1,3 +1,9 @@
+## 1.0.0 (2026-11-22)
+
+### 🐛 Bug Fixes
+
+* mark Gradle wrapper executable ([18996d1](https://github.com/asteeky/Kageroll-archive/commit/18996d1279bfeb7f85e2e5d188238f9acbba130d))
+
 ## [1.6.0](https://github.com/Ikuradachi/Kageroll/compare/v1.5.0...v1.6.0) (2026-11-19)
 
 ### ✨ New Features
